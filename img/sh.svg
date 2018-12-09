@@ -1,0 +1,142 @@
+
+<svg width="440px" height="500px" viewBox="0 0 440 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="430" height="100" rx="20"></rect>
+        <filter x="-1.3%" y="-5.5%" width="104.4%" height="119.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="4" dy="4" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="130" width="300" height="100" rx="20"></rect>
+        <filter x="-1.8%" y="-5.5%" width="106.3%" height="119.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="4" dy="4" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="330" y="130" width="100" height="230" rx="20"></rect>
+        <filter x="-5.5%" y="-2.4%" width="119.0%" height="108.3%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="4" dy="4" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="0" y="260" width="300" height="100" rx="20"></rect>
+        <filter x="-1.8%" y="-5.5%" width="106.3%" height="119.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="4" dy="4" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="0" y="390" width="100" height="100" rx="20"></rect>
+        <filter x="-5.5%" y="-5.5%" width="119.0%" height="119.0%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="4" dy="4" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-11" x="130" y="390" width="100" height="100" rx="20"></rect>
+        <filter x="-5.5%" y="-5.5%" width="119.0%" height="119.0%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="4" dy="4" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-13" x="260" y="390" width="100" height="100" rx="20"></rect>
+        <filter x="-5.5%" y="-5.5%" width="119.0%" height="119.0%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="4" dy="4" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 1.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="429" height="99" rx="20"></rect>
+            </g>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <rect stroke="#979797" stroke-width="1" x="0.5" y="130.5" width="299" height="99" rx="20"></rect>
+            </g>
+            <g id="Rectangle-2-Copy-7">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <rect stroke="#979797" stroke-width="1" x="330.5" y="130.5" width="99" height="229" rx="20"></rect>
+            </g>
+            <g id="Rectangle-2-Copy">
+                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                <rect stroke="#979797" stroke-width="1" x="0.5" y="260.5" width="299" height="99" rx="20"></rect>
+            </g>
+            <g id="Rectangle-2-Copy-3">
+                <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                <rect stroke="#979797" stroke-width="1" x="0.5" y="390.5" width="99" height="99" rx="20"></rect>
+            </g>
+            <g id="Rectangle-2-Copy-4">
+                <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                <rect stroke="#979797" stroke-width="1" x="130.5" y="390.5" width="99" height="99" rx="20"></rect>
+            </g>
+            <g id="Rectangle-2-Copy-5">
+                <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                <rect stroke="#979797" stroke-width="1" x="260.5" y="390.5" width="99" height="99" rx="20"></rect>
+            </g>
+            <path d="M150.5,101.5 L150.5,129.5" id="Line" stroke="#979797" fill="#989898" stroke-linecap="square"></path>
+            <path id="Line-decoration-1" d="M150.5,129.5 L153.5,118.7 L147.5,118.7 L150.5,129.5 Z" stroke="#979797" fill="#989898" stroke-linecap="square"></path>
+            <path d="M380.5,101.5 L380.5,129.5" id="Line-Copy-7" stroke="#979797" fill="#989898" stroke-linecap="square"></path>
+            <path id="Line-Copy-7-decoration-1" d="M380.5,129.5 L383.5,118.7 L377.5,118.7 L380.5,129.5 Z" stroke="#979797" fill="#989898" stroke-linecap="square"></path>
+            <path d="M300.5,180.5 L330.5,180.5" id="Line-Copy-8" stroke="#979797" fill="#989898" stroke-linecap="square"></path>
+            <path id="Line-Copy-8-decoration-1" d="M330.5,180.5 L319.7,177.5 L319.7,183.5 L330.5,180.5 Z" stroke="#979797" fill="#989898" stroke-linecap="square"></path>
+            <path d="M150.5,230.5 L150.5,258.5" id="Line-Copy" stroke="#979797" fill="#989898" stroke-linecap="square"></path>
+            <path id="Line-Copy-decoration-1" d="M150.5,258.5 L153.5,247.7 L147.5,247.7 L150.5,258.5 Z" stroke="#979797" fill="#989898" stroke-linecap="square"></path>
+            <path d="M51.5,361.5 L51.5,389.5" id="Line-Copy-3" stroke="#979797" fill="#989898" stroke-linecap="square"></path>
+            <path id="Line-Copy-3-decoration-1" d="M51.5,389.5 L54.5,378.7 L48.5,378.7 L51.5,389.5 Z" stroke="#979797" fill="#989898" stroke-linecap="square"></path>
+            <path d="M181.5,360.5 L181.5,388.5" id="Line-Copy-4" stroke="#979797" fill="#989898" stroke-linecap="square"></path>
+            <path id="Line-Copy-4-decoration-1" d="M181.5,388.5 L184.5,377.7 L178.5,377.7 L181.5,388.5 Z" stroke="#979797" fill="#989898" stroke-linecap="square"></path>
+            <path d="M276.433407,358.433407 L306.5,388.5" id="Line-Copy-5" stroke="#979797" fill="#989898" stroke-linecap="square"></path>
+            <path id="Line-Copy-5-decoration-1" d="M306.5,388.5 L300.984567,378.741926 L296.741926,382.984567 L306.5,388.5 Z" stroke="#979797" fill="#989898" stroke-linecap="square"></path>
+            <path d="M314.5,100.5 L314.5,388.5" id="Line-Copy-6" stroke="#979797" fill="#989898" stroke-linecap="square"></path>
+            <path id="Line-Copy-6-decoration-1" d="M314.5,388.5 L317.5,377.7 L311.5,377.7 L314.5,388.5 Z" stroke="#979797" fill="#989898" stroke-linecap="square"></path>
+            <path d="M314.5,100.5 L314.5,388.5" id="Line-Copy-9" stroke="#979797" fill="#989898" stroke-linecap="square" transform="translate(314.500000, 244.500000) scale(1, -1) translate(-314.500000, -244.500000) "></path>
+            <path id="Line-Copy-9-decoration-1" d="M314.5,388.5 L317.5,377.7 L311.5,377.7 L314.5,388.5 Z" stroke="#979797" fill="#989898" stroke-linecap="square"></path>
+            <text id="User-Interface" font-family="Helvetica" font-size="24" font-weight="300" fill="#1E1D1D">
+                <tspan x="140.176" y="58">User Interface</tspan>
+            </text>
+            <text id="Browser-Engine" font-family="Helvetica" font-size="24" font-weight="300" fill="#1E1D1D">
+                <tspan x="66.12" y="189">Browser Engine</tspan>
+            </text>
+            <text id="Rendering-Engine" font-family="Helvetica" font-size="24" font-weight="300" fill="#1E1D1D">
+                <tspan x="55.224" y="319">Rendering Engine</tspan>
+            </text>
+            <text id="Networking" font-family="Helvetica" font-size="14" font-weight="300" fill="#1E1D1D">
+                <tspan x="13.257" y="445">Networking</tspan>
+            </text>
+            <text id="JavaScript-Interpret" font-family="Helvetica" font-size="14" font-weight="300" fill="#1E1D1D">
+                <tspan x="148.199" y="437">JavaScript</tspan>
+                <tspan x="148.038" y="453">Interprete</tspan>
+            </text>
+            <text id="UI-Backend" font-family="Helvetica" font-size="14" font-weight="300" fill="#1E1D1D">
+                <tspan x="275.455" y="445">UI Backend</tspan>
+            </text>
+            <text id="Data-Storage" transform="translate(380.000000, 245.500000) rotate(90.000000) translate(-380.000000, -245.500000) " font-family="Helvetica" font-size="24" font-weight="300" fill="#1E1D1D">
+                <tspan x="310.1" y="254">Data Storage</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
